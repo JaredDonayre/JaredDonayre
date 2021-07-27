@@ -1,0 +1,32 @@
+Random Fruit Exam
+
+SAQuestion
+5.0
+What are bananas?
+Fruit
+
+MCSAQuestion
+5.0
+What is Rick Ross' favorite fruit?
+5
+0.0 Apples
+0.0 Oranges
+1.0 Pears
+0.0 Starfruits
+0.0 Pineapples
+
+MCMAQuestion
+5.0
+What goes in a Three Berry Pie?
+0.4
+5
+0.2 Strawberries
+-0.2 Cherries
+-0.2 Blackberries
+0.2 Raspberries
+0.2 Blueberries
+
+SAQuestion
+5.0
+What is the oldest fruit in the world?
+Fig

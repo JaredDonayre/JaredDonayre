@@ -1,0 +1,17 @@
+Jared Donayre
+
+SAAnswer
+Fruit
+
+SAAnswer
+Fig
+
+MCSAAnswer
+Pears
+
+MCMAAnswer
+3
+B
+D
+E
+
