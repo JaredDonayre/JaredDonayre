@@ -1,0 +1,12 @@
+C:\Users\Jared\Documents\School\CS 480\Proj4\CoursemoApp\CoursemoApp\bin\Debug\Coursemo.mdf
+C:\Users\Jared\Documents\School\CS 480\Proj4\CoursemoApp\CoursemoApp\bin\Debug\Coursemo_log.ldf
+C:\Users\Jared\Documents\School\CS 480\Proj4\CoursemoApp\CoursemoApp\bin\Debug\CoursemoApp.exe.config
+C:\Users\Jared\Documents\School\CS 480\Proj4\CoursemoApp\CoursemoApp\bin\Debug\CoursemoApp.exe
+C:\Users\Jared\Documents\School\CS 480\Proj4\CoursemoApp\CoursemoApp\bin\Debug\CoursemoApp.pdb
+C:\Users\Jared\Documents\School\CS 480\Proj4\CoursemoApp\CoursemoApp\obj\Debug\CoursemoApp.csprojAssemblyReference.cache
+C:\Users\Jared\Documents\School\CS 480\Proj4\CoursemoApp\CoursemoApp\obj\Debug\CoursemoApp.Form1.resources
+C:\Users\Jared\Documents\School\CS 480\Proj4\CoursemoApp\CoursemoApp\obj\Debug\CoursemoApp.Properties.Resources.resources
+C:\Users\Jared\Documents\School\CS 480\Proj4\CoursemoApp\CoursemoApp\obj\Debug\CoursemoApp.csproj.GenerateResource.cache
+C:\Users\Jared\Documents\School\CS 480\Proj4\CoursemoApp\CoursemoApp\obj\Debug\CoursemoApp.csproj.CoreCompileInputs.cache
+C:\Users\Jared\Documents\School\CS 480\Proj4\CoursemoApp\CoursemoApp\obj\Debug\CoursemoApp.exe
+C:\Users\Jared\Documents\School\CS 480\Proj4\CoursemoApp\CoursemoApp\obj\Debug\CoursemoApp.pdb
